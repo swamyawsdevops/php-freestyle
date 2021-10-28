@@ -2,9 +2,9 @@
 	session_start();
 
 	// Define database
-	define('dbhost', 'axies.cfky5hslylq4.us-east-2.rds.amazonaws.com');
-	define('dbuser', 'axies');
-	define('dbpass', 'axies1234');
+	define('dbhost', 'home.ctkluoj8csse.eu-west-1.rds.amazonaws.com');
+	define('dbuser', 'home');
+	define('dbpass', 'home1234');
 	define('dbname', 'rent');
 
 	// Connecting database
